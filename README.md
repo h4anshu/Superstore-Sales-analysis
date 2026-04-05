@@ -168,12 +168,6 @@ This project helps:
 
 ---
 
-## 👨‍💻 Author
-**Anshu Mishra**  
-Aspiring Data Analyst | Excel | SQL | Python (Learning)
-
----
-
 ## ⭐ Conclusion
 This project demonstrates the ability to:
 - Perform **end-to-end data analysis**
